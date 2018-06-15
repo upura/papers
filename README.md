@@ -1,7 +1,5 @@
 論文メモ
 ===
-# Contents
-
 ## [Article Summaries](https://github.com/upura/papers/issues)
 論文のまとめをIssueで管理しています。
 
